@@ -1,3 +1,3 @@
 export default {
-  apiBaseUrl: 'https://radio.estacionkusmedios.com',
+  apiBaseUrl: 'https://radio.kusmedios.lat',
 }
